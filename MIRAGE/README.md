@@ -1,5 +1,10 @@
 # MIRAGE — AI Vision Failure Testing & Diagnosis Workbench
 
+
+🚀 **[Try the Live Demo](https://404-team-not-found-mirage-wtcyhvuneyzj3t8rr8wqso.streamlit.app/)**
+
+MIRAGE is a computer vision robustness testing workbench that evaluates how object detection models behave when images are affected by real-world conditions such as blur, lighting changes, shadows, and occlusion.
+
 **MIRAGE** is a visual workbench designed to systematically test and diagnose how reliably an object-detection model functions when real-world image distortions and environmental perturbations are applied.
 
 The central research question investigated by MIRAGE is:
