@@ -1,4 +1,5 @@
 # MIRAGE — AI Vision Failure Testing & Diagnosis Workbench
+#Hack-o-ween 2026
 
 
 🚀 **[Try the Live Demo](https://404-team-not-found-mirage-wtcyhvuneyzj3t8rr8wqso.streamlit.app/)**
